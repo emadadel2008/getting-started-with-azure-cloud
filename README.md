@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emad Adel</h1>
-<h3 align="center">Cloid Solution Architect</h3>
+<h3 align="center">Cloud Solution Architect</h3>
 
 <p align="left"> <a href="https://twitter.com/emadadel2008" target="blank"><img src="https://img.shields.io/twitter/follow/emadadel2008?logo=twitter&style=for-the-badge" alt="emadadel2008" /></a> </p>
 
